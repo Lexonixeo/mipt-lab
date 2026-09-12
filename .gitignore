@@ -1,5 +1,6 @@
 **/*.ipynb_checkpoints/
 **/build/
+**/aux/
 **/raw/
 
 /1.1.1-belokopytov/
